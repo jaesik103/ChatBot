@@ -1,4 +1,4 @@
-# chat_bot
+# AI_chat_bot
 
 선톡용 챗봇
 
