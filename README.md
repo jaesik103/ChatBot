@@ -9,6 +9,9 @@
 - pre-training 된 모델에 새 데이터로 fine tuning 하여 새로운 챗봇 제작
 - [streamlit][1] 사용
 
+# Python version
+- 3.8.9
+
 # 사용 모델 및 소스
 - [KoBART-chatbot][2]
 
