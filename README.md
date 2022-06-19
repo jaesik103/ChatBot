@@ -28,4 +28,4 @@
 
 [1]: https://github.com/streamlit/streamlit
 [2]: https://github.com/haven-jeon/KoBART-chatbot
-[3]: https://rlkujwkk7.toastcdn.net/63/NIKL_OM_2021_v1.0.pdf
+[3]: https://drive.google.com/file/d/1qSw2IXOPhn_3QbQ4p-yEwoLeNT3PGBER/view?usp=sharing
